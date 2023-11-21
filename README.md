@@ -1,4 +1,15 @@
-### Hi there 👋
+# Hyungho Chris Choi
+✨ *first ideas are always terrible*
+#### Robotics Enthusiast, Aspiring Researcher
+📚 Undergraduate Student, KAIST ME
+
+🔗 [Website]()
+
+📄 [CV](https://docs.google.com/document/d/1ozQ6T29NOXO7M88euGHvQ4rsyi9gCe_uucboIFjT9L4/edit?usp=sharing)
+🚀 [Projects](https://docs.google.com/presentation/d/1KarT_qK2XlH1yO1Nb5_kVtkllLN0TttBp9u6TYYZcj4/edit?usp=drive_link)
+📜 [Google Scholar](https://scholar.google.com/citations?user=gonKlSkAAAAJ&hl=en)
+👥 [LinkedIn](www.linkedin.com/in/
+plannerking)
 
 <!--
 **iamchoking/iamchoking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
