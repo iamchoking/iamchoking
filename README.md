@@ -1,7 +1,7 @@
 # Hyungho Chris Choi
 ✨ *first ideas are always terrible*
 #### Robotics Enthusiast, Aspiring Researcher
-📚 Undergraduate Student, KAIST ME
+📚 Master's Student, RAI LAB, KAIST ME
 
 🔗 [Website](https://iamchoking.github.io/iamchoking/)
 
