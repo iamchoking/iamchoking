@@ -1,7 +1,10 @@
 # Hyungho Chris Choi
 ✨ *first ideas are always terrible*
 #### Robotics Enthusiast, Aspiring Researcher
-📚 Master's Student, RAI LAB, KAIST ME
+📚 Bachelor, KAIST ME
+📚 Master of Engineering, [RAI LAB](https://railab.kaist.ac.kr/), KAIST ME
+
+🔭 Senior Research Engineer, [Holiday Robotics](https://holiday-robotics.com/), Seoul, Republic of Korea
 
 🔗 [Website](https://iamchoking.github.io/iamchoking/)
 
